@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-img_20190608_154615",
-      "name": "IMG_20190608_154615",
+      "name": "",
       "levels": [
         {
           "tileSize": 256,

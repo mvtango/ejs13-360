@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": 0.21642948718407595,
           "pitch": -0.4720589924199903,
           "title": "Willkommen&nbsp;",
-          "text": "<div class=\"ejs13-infobox\"><p> Willkommen in Berlin-Niederschöneweide!</p><p>\n Sie befinden sich auf dem Gelände der einstigen Bärenquell-Brauerei,\n die bis zur Wende zum VEB Berliner Brauereien gehörte. Nach der\n Wiedervereinigung wurde Bärenquell von der Treuhand privatisiert und\n der Frankfurter Henninger Bräu AG übertragen. Diese plante das Gelände\n umzubauen und wollte dabei einige Gebäude abreißen. Die Bauarbeiten\n wurden auf Grund des Denkmalschutzes vom Bezirk-Treptow untersagt.\n Seit 1994 wurde hier kein Bier mehr hergestellt.</p></div>"
+          "text": "<div class=\"ejs13-infobox\"><p> Willkommen in Berlin-Niederschöneweide!</p><p>\n Sie befinden sich auf dem Gelände der einstigen Bärenquell-Brauerei,\n die bis zur Wende zum VEB Berliner Brauereien gehörte. Nach der\n Wiedervereinigung wurde Bärenquell von der Treuhand privatisiert und\n der Frankfurter Henninger Bräu AG übertragen. Diese plante, das Gelände\n umzubauen, und wollte dabei einige Gebäude abreißen. Die Bauarbeiten\n wurden auf Grund des Denkmalschutzes vom Bezirk-Treptow untersagt.\n Seit 1994 wurde hier kein Bier mehr hergestellt.</p></div>"
         },
         {
           "yaw": -2.9204113822176687,

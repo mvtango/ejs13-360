@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": 0.21642948718407595,
           "pitch": -0.4720589924199903,
           "title": "Willkommen&nbsp;",
-          "text": "<div class=\"ejs13-infobox\"><p>Willkommen\nin Oberschöneweide, in einem der einst größten\nIndustriegebiete \nBerlins. Hier arbeiteten zu\nDDR-Zeiten über 30.000 Menschen. Die\nTreuhandanstalt privatisierte hier fünf\nGroßbetriebe: Die Metallhütten und\nHalbzeugwerke,  das Institut\nfür Nachrichtentechnik,  das\n Transformatorenwerk, das\n Kabelwerk Oberspree und\ndas Werk\nfür Fernsehelektronik. \n</p>\n<p >\nWir\nsind hier auf dem Gelände der ehemaligen VEB Berliner Metallhütten-\nund Halbzeugwerke.  Das Industrieunternehmen wurde am 1. Januar\n1951 gegründet. Es war dem Ministerium für Schwerindustrie der DDR\nunterstellt.</p>\n<p>\nDas\nUnternehmen beschäftigte bis zu 2.300 Mitarbeiter, die im\nDreischichtbetrieb an Hoch- und Schmelzöfen arbeiteten. \n</p>\n<p>\n1990,\nnach\nder Wiedervereinigung, wurde der Betrieb eingestellt – der\nüberwiegende Teil des Fabrikgeländes ist\nbis heute ungenutzt.</p></div>"
+          "text": "<div class=\"ejs13-infobox\"><p> Willkommen in Berlin-Niederschöneweide!</p><p>\n Sie befinden sich auf dem Gelände der einstigen Bärenquell-Brauerei,\n die bis zur Wende zum VEB Berliner Brauereien gehörte. Nach der\n Wiedervereinigung wurde Bärenquell von der Treuhand privatisiert und\n der Frankfurter Henninger Bräu AG übertragen. Diese plante das Gelände\n umzubauen und wollte dabei einige Gebäude abreißen. Die Bauarbeiten\n wurden auf Grund des Denkmalschutzes vom Bezirk-Treptow untersagt.\n Seit 1994 wurde hier kein Bier mehr hergestellt.</p></div>"
         },
         {
           "yaw": -2.9204113822176687,
